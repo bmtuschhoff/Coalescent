@@ -1,3 +1,0 @@
-All code used to simulate and evaluate data is located in the "Code" directory. All simulated data analyzed in the paper is located in the "Data" directory. All figures generated from the simulated data are located in the "Figures" directory. The figures are labeled the same as in the paper.
-
-Further details on the code and data can be found in the "README" files for those directories.
