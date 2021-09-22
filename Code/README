@@ -1,4 +1,4 @@
-Below are brief descriptions of the code as well as each program's input and output.
+Below are brief descriptions of the code as well as each program's input and output. The code was written in Python in Jupyter notebook but is uploaded here in an HTML format for easier inspection across platforms.
 
 "Coalescent Simulation" runs the simulation for a neutral coalescent with replication-dependent and replication-independent mutations using the Gillespie algorithm. This code can be run for a constant or fluctuating replication or pairwise coalescence rate and outputs files containing site frequency spectrums for the input parameters.
 
